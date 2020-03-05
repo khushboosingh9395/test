@@ -21,18 +21,34 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+"k	CHAR	0
+	lkl€kr€kr€kr€krm         k€kb€kr€kr€kr€kr  					€kr€kr   lim€kbnkedin€kb€kb€kb€kb€kb€kb€kr linkedin;w
 ""-	CHAR	0
 	u
 
 # File marks:
-'0  2  0  ~/myrepo/README.md
-'1  1  6  ~/myrepo/README.md
+'0  2  0  ~/README.md
+'1  2  0  ~/myrepo/README.md
 '2  1  6  ~/myrepo/README.md
 '3  1  6  ~/myrepo/README.md
-'4  3  0  ~/myrepo/README.md
-'5  7  0  ~/myrepo/README.md
+'4  1  6  ~/myrepo/README.md
+'5  3  0  ~/myrepo/README.md
+'6  7  0  ~/myrepo/README.md
 
 # Jumplist (newest first):
+-'  2  0  ~/README.md
+-'  1  0  ~/README.md
+-'  2  0  ~/myrepo/README.md
+-'  1  6  ~/myrepo/README.md
+-'  3  0  ~/myrepo/README.md
+-'  7  0  ~/myrepo/README.md
+-'  4  0  ~/myrepo/README.md
+-'  6  0  ~/myrepo/README.md
+-'  5  0  ~/myrepo/README.md
+-'  8  0  ~/myrepo/README.md
+-'  12  0  ~/myrepo/README.md
+-'  9  0  ~/myrepo/README.md
+-'  11  0  ~/myrepo/README.md
 -'  2  0  ~/myrepo/README.md
 -'  1  6  ~/myrepo/README.md
 -'  3  0  ~/myrepo/README.md
@@ -46,6 +62,12 @@
 -'  11  0  ~/myrepo/README.md
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	"	2	0
+	^	2	0
+	.	1	14
+	+	1	14
 
 > ~/myrepo/README.md
 	"	2	0
