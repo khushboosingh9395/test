@@ -21,6 +21,8 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+"k	CHAR	0
+	lkl€kr€kr€kr€krm         k€kb€kr€kr€kr€kr  					€kr€kr   lim€kbnkedin€kb€kb€kb€kb€kb€kb€kr linkedin;w
 ""-	CHAR	0
 	o
 
@@ -64,8 +66,13 @@
 > ~/README.md
 	"	2	0
 	^	2	0
+<<<<<<< HEAD
 	.	1	12
 	+	1	12
+=======
+	.	1	14
+	+	1	14
+>>>>>>> linkedin
 
 > ~/myrepo/README.md
 	"	2	0
